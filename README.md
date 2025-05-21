@@ -13,7 +13,6 @@ Sou Desenvolvedor Backend em constante evolução.
  </a>
 </div>
 
-Sou Desenvolvedor Backend em constante evolução.
 
 ## 🚀 Tecnologias e Ferramentas
 
