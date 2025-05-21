@@ -23,7 +23,7 @@ Sou Desenvolvedor Backend em constante evolução.
 
 ## 📚 Atualmente aprendendo
 
- **Java | Spring Boot**
+- **Java | Spring Boot**
 - **MySQL**
 - **Consumo de APIs REST**
 - **Princípios SOLID**
