@@ -2,6 +2,19 @@
 
 Sou Desenvolvedor Backend em constante evolução.
 
+<div align="center">
+ <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-viana-232012230/" target="_blank">
+   <img align="center" alt="DH-JAVA" src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white">
+   <img align="center" alt="DH-SPRINGBOOT" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+   <img align="center" alt="DH-MYSQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+   <img align="center" alt="DH-DOCKER" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+   <img align="center" alt="DH-HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+   <img align="center" alt="DH-CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+ </a>
+</div>
+
+Sou Desenvolvedor Backend em constante evolução.
+
 ## 🚀 Tecnologias e Ferramentas
 
 - **Java | Spring Boot**
