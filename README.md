@@ -1,16 +1,31 @@
-## Hi there 👋
+## Olá! Sejam bem-vindos. Me chamo Diogo e sou Desenvolvedor Backend.
 
-<!--
-**diogodev21/diogodev21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Desenvolvedor Backend em constante evolução.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Java | Spring Boot**
+- **MySQL | JPA | Hibernate**
+- **Docker**
+- **Consumo de APIs REST**
+- **Princípios SOLID**
+- **Padrões de Projeto (Design Patterns)**
+
+## 📚 Atualmente aprendendo
+
+- Arquitetura de Software (Hexagonal, MVC)
+- Testes automatizados (JUnit, Mockito)
+- Boas práticas de Clean Code e Refatoração
+
+## 💡 Sobre meus projetos
+
+Estou desenvolvendo projetos pessoais com foco em:
+
+- Criação de APIs REST escaláveis e bem estruturadas
+- Integração com bancos de dados relacionais
+- Contêinerização de aplicações com Docker
+- Aplicação de boas práticas com SOLID e padrões de projeto
+
+## 💬 Vamos conversar?
+
+Sinta-se à vontade para explorar meus repositórios. Feedbacks são sempre bem-vindos!
