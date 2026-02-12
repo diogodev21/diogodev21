@@ -17,6 +17,7 @@ Sou Desenvolvedor Backend em constante evolução.
 ## 🚀 Tecnologias e Ferramentas
 
 - **Java | Spring Boot**
+- **JavaScript | HTML | CSS**
 - **MySQL**
 - **Consumo de APIs REST**
 - **Princípios SOLID**
