@@ -22,9 +22,7 @@ Sou Desenvolvedor Backend em constante evolução.
 - **Java | Spring Boot**
 - **JavaScript | Next.js | Node.js**
 - **MySQL**
-- **Consumo de APIs REST**
-- **Princípios SOLID**
-- **Padrões de Projeto (Design Patterns)**
+
 
 ## 📚 Atualmente aprendendo
 
@@ -37,11 +35,7 @@ Sou Desenvolvedor Backend em constante evolução.
 
 ## 💡 Sobre meus projetos
 
-Estou desenvolvendo projetos pessoais com foco em:
-
-- Criação de APIs REST escaláveis e bem estruturadas
-- Integração com bancos de dados relacionais
-- Aplicação de boas práticas com SOLID e padrões de projeto
+Estou desenvolvendo projetos pessoais...
 
 ## 💬 Vamos conversar?
 
